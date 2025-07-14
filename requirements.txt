@@ -1,0 +1,4 @@
+tensorflow
+numpy
+ipykernel
+matplotlib
