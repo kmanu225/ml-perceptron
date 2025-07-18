@@ -1,1 +1,1 @@
-# ann-demo
+# Data classification with perceptron
